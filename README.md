@@ -6,7 +6,7 @@
 ### Order Deatails - IT20607746
 ### Invoice Details - IT20655884
 ### Inventory Deatails
-#Auction Details
+### Auction Details
 #About Us
 #Contact Us
 
