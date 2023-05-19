@@ -3,7 +3,7 @@
 ### Product details - IT20603304
 ### Vendor Details - IT20607746
 ### Employee details - IT20604158
-#Order Deatails
+### Order Deatails - IT20607746
 #Invoice Details
 #Inventory Deatails
 #Auction Details
