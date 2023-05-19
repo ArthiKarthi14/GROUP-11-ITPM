@@ -5,7 +5,7 @@
 ### Employee details - IT20604158
 ### Order Deatails - IT20607746
 ### Invoice Details
-#Inventory Deatails
+### Inventory Deatails
 #Auction Details
 #About Us
 #Contact Us
