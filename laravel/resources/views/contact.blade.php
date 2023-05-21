@@ -30,6 +30,11 @@
       </div>
     </div>
   </div>
+  <footer class="footer-section">
+	<div class="col-md-12 text-center">
+		<p class="mb-0">&copy; 2023 Autoaum Logistics. All rights reserved.</p>
+	</div>
+</footer>
   
 @endsection
 
